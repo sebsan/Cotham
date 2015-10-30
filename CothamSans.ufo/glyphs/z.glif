@@ -7,19 +7,13 @@
       <point x="37" y="470" type="line"/>
       <point x="396" y="470" type="line"/>
       <point x="396" y="401" type="line"/>
-      <point x="37" y="401" type="line"/>
-    </contour>
-    <contour>
-      <point x="26" y="69" type="line"/>
+      <point x="126" y="69" type="line"/>
       <point x="401" y="69" type="line"/>
       <point x="401" y="0" type="line"/>
       <point x="26" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="296" y="401" type="line"/>
-      <point x="396" y="401" type="line"/>
-      <point x="126" y="69" type="line"/>
       <point x="26" y="69" type="line"/>
+      <point x="296" y="401" type="line"/>
+      <point x="37" y="401" type="line"/>
     </contour>
   </outline>
 </glyph>
