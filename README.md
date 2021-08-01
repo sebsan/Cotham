@@ -1,17 +1,17 @@
-##Cotham Sans
+## Cotham Sans
 
 Cotham Sans is a sans serif grotesk.
 
-##Contribute
-#####Recommendations:
+## Contribute
+##### Recommendations:
 1. Improve spacing
 2. Improve kerning
 3. Add missing glyphs
 
-##Font specimen
+## Font specimen
 www.love-letters.be
 
-##License
+## License
 
 Cotham is licensed under the SIL Open Font License v1.1 (http://scripts.sil.org/OFL)
 
