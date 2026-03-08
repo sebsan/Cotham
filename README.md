@@ -8,8 +8,9 @@ Cotham Sans is a sans serif grotesk.
 2. Improve kerning
 3. Add missing glyphs
 
-## Font specimen
-www.love-letters.be
+##Designer:
+
+loveletters.be
 
 ## License
 
